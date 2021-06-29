@@ -1,2 +1,2 @@
 # UDP-Client-Server
-Client server communication usinf UDP
+Client server communication using UDP
